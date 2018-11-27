@@ -1,0 +1,14 @@
+C:\Users\User-PC\Desktop\SomeCoreApp\SomeCoreApp.API\bin\Debug\netcoreapp2.1\SomeCoreApp.API.deps.json
+C:\Users\User-PC\Desktop\SomeCoreApp\SomeCoreApp.API\bin\Debug\netcoreapp2.1\SomeCoreApp.API.runtimeconfig.json
+C:\Users\User-PC\Desktop\SomeCoreApp\SomeCoreApp.API\bin\Debug\netcoreapp2.1\SomeCoreApp.API.runtimeconfig.dev.json
+C:\Users\User-PC\Desktop\SomeCoreApp\SomeCoreApp.API\bin\Debug\netcoreapp2.1\SomeCoreApp.API.dll
+C:\Users\User-PC\Desktop\SomeCoreApp\SomeCoreApp.API\bin\Debug\netcoreapp2.1\SomeCoreApp.API.pdb
+C:\Users\User-PC\Desktop\SomeCoreApp\SomeCoreApp.API\obj\Debug\netcoreapp2.1\SomeCoreApp.API.csprojAssemblyReference.cache
+C:\Users\User-PC\Desktop\SomeCoreApp\SomeCoreApp.API\obj\Debug\netcoreapp2.1\SomeCoreApp.API.csproj.CoreCompileInputs.cache
+C:\Users\User-PC\Desktop\SomeCoreApp\SomeCoreApp.API\obj\Debug\netcoreapp2.1\SomeCoreApp.API.RazorAssemblyInfo.cache
+C:\Users\User-PC\Desktop\SomeCoreApp\SomeCoreApp.API\obj\Debug\netcoreapp2.1\SomeCoreApp.API.RazorAssemblyInfo.cs
+C:\Users\User-PC\Desktop\SomeCoreApp\SomeCoreApp.API\obj\Debug\netcoreapp2.1\SomeCoreApp.API.AssemblyInfoInputs.cache
+C:\Users\User-PC\Desktop\SomeCoreApp\SomeCoreApp.API\obj\Debug\netcoreapp2.1\SomeCoreApp.API.AssemblyInfo.cs
+C:\Users\User-PC\Desktop\SomeCoreApp\SomeCoreApp.API\obj\Debug\netcoreapp2.1\SomeCoreApp.API.RazorTargetAssemblyInfo.cache
+C:\Users\User-PC\Desktop\SomeCoreApp\SomeCoreApp.API\obj\Debug\netcoreapp2.1\SomeCoreApp.API.dll
+C:\Users\User-PC\Desktop\SomeCoreApp\SomeCoreApp.API\obj\Debug\netcoreapp2.1\SomeCoreApp.API.pdb
